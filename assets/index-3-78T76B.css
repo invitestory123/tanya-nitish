@@ -27,10 +27,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* Hero arch specific font-script reset so names stay elegantly inside arch */
-.hero-arch-content .font-script {
-  line-height: 1.05 !important;
-  padding-top: 0.02em !important;
-  padding-bottom: 0.04em !important;
-  display: inline-block;
+
+
+/* Hero arch specific content layout and script font */
+.hero-arch-content {
+  padding-top: 74px !important;
+  padding-bottom: 24px !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
+
+.hero-arch-content .font-script {
+  line-height: 1.15 !important;
+  padding-top: 0.04em !important;
+  padding-bottom: 0.06em !important;
+  display: inline-block !important;
+}
+
+
