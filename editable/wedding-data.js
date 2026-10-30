@@ -102,5 +102,6 @@ window.WEDDING_DATA = {
     ganesha: "./editable/assets/ganesha.png",
     bride: "./editable/assets/bride.webp",
     groom: "./editable/assets/groom.webp",
+    ogImage: "./editable/assets/og-image.png",
   },
 };
