@@ -25,3 +25,12 @@ h1, h2, h3, h4, h5, h6 {
 .object-center {
   object-position: center center !important;
 }
+
+
+/* Hero arch specific font-script reset so names stay elegantly inside arch */
+.hero-arch-content .font-script {
+  line-height: 1.05 !important;
+  padding-top: 0.02em !important;
+  padding-bottom: 0.04em !important;
+  display: inline-block;
+}
