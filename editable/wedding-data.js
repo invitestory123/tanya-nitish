@@ -97,7 +97,7 @@ window.WEDDING_DATA = {
   },
 
   images: {
-    couple: "./editable/assets/couple.webp",
+    couple: "",
     venue: "./editable/assets/venue-palace.webp",
     ganesha: "./editable/assets/ganesha.png",
     bride: "./editable/assets/bride.webp",
