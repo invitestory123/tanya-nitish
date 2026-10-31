@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hero arch specific content layout and script font */
 .hero-arch-content {
-  padding-top: 78px !important;
+  padding-top: 72px !important;
   padding-bottom: 24px !important;
   padding-left: 1.25rem !important;
   padding-right: 1.25rem !important;
@@ -42,37 +42,37 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-arch-wedding {
   font-family: 'Great Vibes', cursive !important;
-  font-size: 34px !important;
+  font-size: 38px !important;
   line-height: 1.15 !important;
   color: #c96e8c !important;
   display: block !important;
-  margin: 2px 0 !important;
+  margin: 3px 0 !important;
 }
 
 .hero-arch-name {
   font-family: 'Great Vibes', cursive !important;
-  font-size: 42px !important;
+  font-size: 58px !important;
   line-height: 1.08 !important;
   color: #4a3f78 !important;
-  display: block !important;
-  margin: 0 !important;
-}
-
-.hero-arch-amp {
-  font-family: 'Great Vibes', cursive !important;
-  font-size: 28px !important;
-  line-height: 1 !important;
-  color: #c96e8c !important;
   display: block !important;
   margin: 2px 0 !important;
 }
 
+.hero-arch-amp {
+  font-family: 'Great Vibes', cursive !important;
+  font-size: 34px !important;
+  line-height: 1 !important;
+  color: #c96e8c !important;
+  display: block !important;
+  margin: 3px 0 !important;
+}
+
 @media (min-width: 640px) {
   .hero-arch-name {
-    font-size: 46px !important;
+    font-size: 64px !important;
   }
   .hero-arch-wedding {
-    font-size: 38px !important;
+    font-size: 42px !important;
   }
 }
 
